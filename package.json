@@ -6,6 +6,7 @@
   "main": "dist/jspdf.min.js",
   "files": [
     "dist/jspdf.min.js",
+    "dist/jspdf.debug.js",
     "README.md"
   ],
   "keywords": [
@@ -14,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrRio/jsPDF.git"
+    "url": "https://github.com/bschantz/jsPDF.git"
   },
   "dependencies": {
     "adler32cs": "github:chick307/adler32cs.js",
